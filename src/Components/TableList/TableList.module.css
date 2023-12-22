@@ -1,0 +1,40 @@
+.order {
+  width: 90%;
+  max-width: 40rem;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color:yellow;
+}
+
+
+.order ul {
+  list-style: none;
+  
+}
+
+.order h2{
+    text-align: center;
+}
+.order button {
+  padding: 0.2rem 0.5rem;
+
+  font-size: 1rem;
+  margin: 0.5rem;
+  background-color: rgb(245, 8, 8);
+}
+
+.order button:hover,
+.order .button:active {
+  border-color: red;
+  background: rgba(255, 0, 0, 0.751);
+}
+
+.order li {
+    text-align: center;
+}
+
+.order div{
+    border: 1px solid rgba(0, 0, 0, 0.26);
+    background-color:rgb(255, 255, 255);
+}
+
